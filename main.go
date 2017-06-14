@@ -14,3 +14,6 @@ type Book struct {
 	Author string  `json:"author"`
 	Price  float32 `json:"price"`
 }
+
+func main() {
+}
